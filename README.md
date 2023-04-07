@@ -1,3 +1,8 @@
+# CellDert #
+
+This repository stores a simple desktop application that is designed to process images and create a simple report in .doc format.
+This application uses a trained neural network model, the code of which you can find in my repository. 
+[![My Unet code](https://github.com/Prionlante/Unet_CBcell)](https://github.com/Prionlante/Unet_CBcell)
 
 If you want to download the installer of the program, then follow this link: https://disk.yandex.ru/d/7eJ0Pu5HIBcOEw
 
